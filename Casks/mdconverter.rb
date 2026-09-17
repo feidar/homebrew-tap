@@ -1,6 +1,6 @@
 cask "mdconverter" do
-  version "1.0.0"
-  sha256 "e35a92270478962dd324f1ce9925e63deb420d234f475f4ef979f7963f11c1af"
+  version "1.1.0"
+  sha256 "e612a81f84204a0f8f86482a4c4c952ddac9497875e7a4a4f85fe492643f3a93"
 
   url "https://dl.matousjanecek.cz/mdconverter/releases/MDConverter-#{version}.dmg"
   name "MDConverter"
